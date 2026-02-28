@@ -1,8 +1,7 @@
 /*
 *    Zynomon aelius <zynomon@proton.me>
-*     white skeuomorphic Qss theme
+*      white skeuomorphic Qss theme
 */
-
 
 QMainWindow, QDialog, QWidget {
     background: qlineargradient(x1:0, y1:0, x2:0, y2:1,

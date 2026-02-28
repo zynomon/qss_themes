@@ -1,4 +1,4 @@
-/*
+/*  
     Darn leaf is a QSS theme inspired by leaf and darkness, its also the default theme of vex a text editor.
      best regards, zynomon aelius <zynomon@proton.me>
 */
@@ -225,3 +225,4 @@ QTextBrowser {
     padding: 4px;
     border-radius: 3px;
 }
+
